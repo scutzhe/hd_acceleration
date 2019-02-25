@@ -16,7 +16,7 @@
 
 Download the caffe model converted by official model:
 
-+ model [here](https://pan.baidu.com/s/1cVIQcAEsZO5p4S-vGf4CYQ) sqpr
++ model [here](https://pan.baidu.com/s/1cVIQcAEsZO5p4S-vGf4CYQ) pwd:sqpr
 
 ### Run Sample
 
